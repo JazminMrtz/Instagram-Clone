@@ -1,0 +1,23 @@
+.carousel-images{
+    border-radius:50%;
+}
+.messages{
+    justify-content: flex-start;
+}
+
+img{
+width: 195px;
+height:160px;
+border-radius: 50%;
+
+}
+
+.footer{
+    justify-content: space-between;
+    align-items: flex-end;
+    
+}
+body{
+    background-color: black;
+    color:aliceblue;
+}
